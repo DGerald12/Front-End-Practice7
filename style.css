@@ -1,0 +1,27 @@
+body{
+    background-color: slategray;
+}
+
+header {
+    background-color: transparent;
+    color: aqua;
+    text-align: center;
+    font-size: 50px;
+    font-family: Lucida Sans;
+    text-shadow: 2px 2px black;
+}
+
+p {
+    font: bolder;
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px black;
+}
+
+.a {
+    font-family: Lucida Sans;
+}
+
+.input{
+    color: red;
+}
